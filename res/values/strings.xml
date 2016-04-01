@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CarLink</string>
+    <string name="ellipsis">......</string>
+    <string name="copyright">Copyright© 2005&#8211;2016 GEC.
+        \nAll Rights Reserved.</string>
+
+</resources>
